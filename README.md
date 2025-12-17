@@ -6,6 +6,9 @@ The project explores baseline predictive models and market segmentation strategi
 
 ## Repository Structure
 
+- `Data_Cleaning.py`
+  Data processing.
+
 - `Baseline_Model.py`  
   Implements baseline pricing models, including linear models and tree-based models (Random Forest, LightGBM, CatBoost, XGBoost), used as benchmarks.
 
